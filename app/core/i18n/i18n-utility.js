@@ -50,7 +50,7 @@
             'If-Modified-Since': 0
         };
         $.ajax({
-            url: 'core/i18n/translation_'+locale+'.json',
+            url: 'core/i18n/resources/translation_'+locale+'.json',
             contentType: 'application/json',
             headers: preventCachingHeaders
         }).then(function(resp) {

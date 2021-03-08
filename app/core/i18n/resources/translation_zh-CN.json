@@ -1,0 +1,27 @@
+{
+  "response": {
+    "code": 200,
+    "message": "OK",
+    "serverTime": ""
+  },
+  "signature": "",
+  "data": {
+    "productName": "Testing",
+    "version": "1.0.0",
+    "dataOrigin": "bundle",
+    "pseudo": false,
+    "machineTranslation": false,
+    "component": "default",
+    "messages": {
+      "additionalProp1": "字串1",
+      "additionalProp2": "字串2",
+      "additionalProp3": "字串3",
+      "sim.feedback.name": "您的姓名",
+      "sim.feedback.title": "联系我们",
+      "sim.upgradePath": "升级途径"
+    },
+    "locale": "zh-Hans",
+    "status": "",
+    "id": 0
+  }
+}
